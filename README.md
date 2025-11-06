@@ -24,7 +24,8 @@
 ---
 
 ## 🌍 Connect with Me
-- GitHub: [github.com/amir-codes-here](https://github.com/amir-codes-here)   
+- GitHub: [github.com/amir-codes-here](https://github.com/amir-codes-here)
+- LinkedIn : [linkedin.com/in/amir-jahani-m/](https://www.linkedin.com/in/amir-jahani-m/)
 - Email: [amir.codes.82@gmail.com](mailto:amir.codes.82@gmail.com)
 
 ---
